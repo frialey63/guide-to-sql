@@ -1,2 +1,2 @@
 # guide-to-sql
-LAN Times Guide to SQL
+The Sample database from "LAN Times Guide to SQL".
